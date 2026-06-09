@@ -54,3 +54,4 @@ D:\TmsApi1\obj\Debug\net10.0\refint\TmsApi1.dll
 D:\TmsApi1\obj\Debug\net10.0\TmsApi1.pdb
 D:\TmsApi1\obj\Debug\net10.0\TmsApi1.genruntimeconfig.cache
 D:\TmsApi1\obj\Debug\net10.0\ref\TmsApi1.dll
+D:\TmsApi1\obj\Debug\net10.0\TmsApi1.sourcelink.json
