@@ -55,3 +55,9 @@ D:\TmsApi1\obj\Debug\net10.0\TmsApi1.pdb
 D:\TmsApi1\obj\Debug\net10.0\TmsApi1.genruntimeconfig.cache
 D:\TmsApi1\obj\Debug\net10.0\ref\TmsApi1.dll
 D:\TmsApi1\obj\Debug\net10.0\TmsApi1.sourcelink.json
+D:\TmsApi1\obj\Debug\net10.0\TmsApi1.csproj.AssemblyReference.cache
+D:\TmsApi1\obj\Debug\net10.0\TmsApi1.MvcApplicationPartsAssemblyInfo.cs
+D:\TmsApi1\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TmsApi1\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\TmsApi1\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\TmsApi1\obj\Debug\net10.0\TmsApi1.csproj.Up2Date
