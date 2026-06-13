@@ -26,3 +26,4 @@ D:\Tms2Api\obj\Debug\net10.0\refint\Tms2Api.dll
 D:\Tms2Api\obj\Debug\net10.0\Tms2Api.pdb
 D:\Tms2Api\obj\Debug\net10.0\Tms2Api.genruntimeconfig.cache
 D:\Tms2Api\obj\Debug\net10.0\ref\Tms2Api.dll
+D:\Tms2Api\obj\Debug\net10.0\Tms2Api.sourcelink.json

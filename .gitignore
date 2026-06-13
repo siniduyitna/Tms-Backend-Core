@@ -1,0 +1,28 @@
+# === 1. .NET Build Outputs (የሚገነቡ ፋይሎች) ===
+bin/
+obj/
+/artifacts/
+
+# === 2. User-Specific & IDE Files (የኮድ መጻፊያ ፋይሎች) ===
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === 3. Secrets & Environment Configurations (ሚስጥራዊ ቁልፎች) ===
+.env
+.env.*
+appsettings.Development.json
+# ማሳሰቢያ፡ መደበኛውን appsettings.json እንዳይደብቅ በጥንቃቄ ተያይዟል
+
+# === 4. Operating System Files (የሲስተም ቆሻሻዎች) ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === 5. Package Manager Logs ===
+project.lock.json
+project.fragment.lock.json
+.mono/
