@@ -1,0 +1,11 @@
+## .NET Core
+bin/
+obj/
+
+## VS Code settings
+.vscode/
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
